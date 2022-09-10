@@ -1,6 +1,8 @@
 """
 En internet encontré que había una pista de que era más fácil empezar de atrás hacia adelante. 
-La primera solución es mejor que la segunda
+La primera solución es mejor que la segunda.
+
+Link Solution 1: https://www.youtube.com/watch?v=zCqaFVYoPBw&ab_channel=TimothyHChang
 """
 class Solution:
     def romanToInt(s: str) -> int:
